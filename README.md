@@ -1,6 +1,6 @@
 # Isalat-MachineLearning
 
-Here are the dataset that used in this project
+Here is the dataset that used in this project
 https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo
 
 Uploaded to Google Drive
