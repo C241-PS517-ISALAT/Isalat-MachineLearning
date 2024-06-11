@@ -1,9 +1,8 @@
 # Isalat-MachineLearning
 
 What we need to do:
-1. Data Augmentation use it to make another 500 images
-2. Learn how to use already built architecture, like Squeezenet for easy and fast for mobile
-3. Please push your work to github so to not embarass ourself
+1. Use yolo for object detection
+2. yolo bisindo dataset : https://universe.roboflow.com/bisindo-skin/alfabet-bisindo/dataset/2
 
 
 Here is the dataset that used in this project
